@@ -1,1 +1,1 @@
-# Immersed-Blogs
+Immersed is an interactive security training tool that helps to protect children while using technology. Immersed is an MVP, and due to the propriety nature of the code I can only provide snippets of my code. This repository contains React code for the Blogs feature.
